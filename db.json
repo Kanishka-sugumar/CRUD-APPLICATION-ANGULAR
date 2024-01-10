@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "Kani",
+      "lastname": "Sugu",
+      "email": "kani@gmail.com",
+      "dob": "2002-06-11T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "TCC",
+      "experience": 2,
+      "package": 3,
+      "id": 1
+    },
+    {
+      "firstname": "Test",
+      "lastname": "user1",
+      "email": "test@gmaail.com",
+      "dob": "2002-05-24T18:30:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "company": "TCC",
+      "experience": 4,
+      "package": 5,
+      "id": 2
+    },
+    {
+      "firstname": "Test ",
+      "lastname": "User2",
+      "email": "user@gmail.com",
+      "dob": "2002-05-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Under Graduate",
+      "company": "TCC",
+      "experience": 5,
+      "package": 6,
+      "id": 3
+    }
+  ]
+}
